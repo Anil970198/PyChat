@@ -90,7 +90,7 @@ Each user can enter a nickname and start chatting.
 
 ## 📸 Screenshots
 
-> ! [failed to load][working image.png]
+> ! [working image][https://github.com/Anil970198/PyChat/blob/0babbce2ab74f3c1211e80b877da4db7f428fca5/working%20image.png]
 
 ---
 
